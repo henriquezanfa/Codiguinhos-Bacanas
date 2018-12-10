@@ -2,7 +2,6 @@ This .java file has some scripts that I found (and still finding) googling and d
 
 I hope it helps!
 
-
-
-Content -----------------------------------------------------------------------------------------
+# Content
 1. Splash Screen
+2. ListView (with ArrayAdapter)
