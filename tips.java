@@ -12,7 +12,7 @@ import ...
 
 public CLass MainActivity extends AppCompActivity {
 
-	// Time elapsed in the Splesh Screen
+	// Time elapsed in the Splash Screen
 	SPLASH_TIME = 3000; 
 
 	@Override
