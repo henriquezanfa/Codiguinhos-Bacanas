@@ -10,7 +10,7 @@ package your.pack.name;
 
 import ... 
 
-public CLass MainActivity extends AppCompActivity {
+public Class MainActivity extends AppCompActivity {
 
 	// Time elapsed in the Splash Screen
 	SPLASH_TIME = 3000; 
@@ -42,7 +42,7 @@ package your.pack.name;
 
 import ... 
 
-public CLass MainActivity extends AppCompActivity {
+public Class MainActivity extends AppCompActivity {
  
 	@Override
 	protected void onCreate(Bundle saveInstance) {
