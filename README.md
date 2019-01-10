@@ -3,9 +3,9 @@ This .java file has some scripts that I found (and still finding) googling and d
 I hope it helps!
 
 # Content
-1. JAVA
-  1.1 Splash Screen
-  1.2 ListView (with ArrayAdapter)
-  
-2. Python
+1. JAVA <br>
+  1.1 Splash Screen<br>
+  1.2 ListView (with ArrayAdapter)<br>
+  <br>
+2. Python<br>
   2.1 Python + MySQL
