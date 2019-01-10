@@ -7,5 +7,6 @@ I hope it helps!
   1.1 Splash Screen<br>
   1.2 ListView (with ArrayAdapter)<br>
   <br>
-2. Python<br>
-  2.1 Python + MySQL
+2. Python <br>
+  2.1 Python + MySQL<br>
+  <br>
