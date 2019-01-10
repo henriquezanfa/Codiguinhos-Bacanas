@@ -1,11 +1,9 @@
-This .java file has some scripts that I found (and still finding) googling and don't want to lose.
+Alguns codiguinhos que usei ou achei por aí e talvez seja útil em algum momento
 
-I hope it helps!
-
-# Content
+# Conteúdo
 1. JAVA <br>
   1.1 Splash Screen<br>
-  1.2 ListView (with ArrayAdapter)<br>
-2. Python <br>
+  1.2 ListView (com ArrayAdapter)<br>
+2. PYTHON <br>
 	2.1 Python + MySQL<br>
   <br>
