@@ -1,4 +1,4 @@
-Alguns codiguinhos que usei ou achei por aí e talvez seja útil em algum momento
+Alguns codiguinhos que usei ou achei por aí e talvez sejam úteis em algum momento no futuro
 
 # Conteúdo
 1. JAVA <br>
